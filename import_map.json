@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/triadscripters/": "./",
+
     "deco-sites/blackfriday-lp/": "./",
 
     "$store/": "./",
